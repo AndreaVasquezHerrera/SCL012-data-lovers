@@ -162,7 +162,6 @@ Este en un principio contaba con:
 
 
  <img src="https://i.ibb.co/cQzVNxS/20191216-032621.jpg" alt="sketch2"  width="500" height="300">
-
 Version para celular
 
    
