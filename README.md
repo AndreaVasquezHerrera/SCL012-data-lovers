@@ -156,17 +156,14 @@ Este en un principio contaba con:
 * Tarjetas con imagenes e informacion detallada de cada Pokemon.
 
 
- <img src="https://i.ibb.co/3BqmLvv/20191213-123901-mh1576251712758.jpg" alt="sketch1"  width="500" height="300">
+![Sketch1](https://i.ibb.co/3BqmLvv/20191213-123901-mh1576251712758.jpg)
  Version para Desktop
 
-
-
- <img src="https://i.ibb.co/cQzVNxS/20191216-032621.jpg" alt="sketch2"  width="500" height="300">
+![sketch2](https://i.ibb.co/cQzVNxS/20191216-032621.jpg)
 Version para celular
 
    
 ## Investigacion y Desarrollo
-
 
 
 Para diseñar esta webapp nos basamos en entrevistas que realizamos a jugadores habituales de _Pokémon GO_ .
@@ -557,7 +554,6 @@ Se evaluo si al pasar cierto tiempo, después de la primera interacción, el usu
 
 
 
-
 ### Errores
 
 Se debe reconocer la cantidad y gravedad de errores que cometa el usuario al interactuar con la aplicación, de igual manera se analiza la facilidad con la que se pueden enmendar los errores cometidos durante la prueba.
@@ -568,7 +564,7 @@ Los errores estan mencionados con detalle mas abajo, en la parte de  _cambios de
 
 Se evaluo qué tan satisfactoria fue la experiencia del usuario y si de alguna manera disfrutó la forma en que está diseñado el producto.
 La Recepcion en general fue positiva ,segun los comentarios de cada uno. 
-Si esta web existiera, la ocuparian, ya que consideran que tiene caracteristicas que no encuentran en otros sitios : tales como , la agilidad , la simpleza en su uso.
+Si esta web existiera, la ocuparian, ya que consideran que tiene caracteristicas que no encuentran en otros sitios , tales como :la agilidad , la simpleza en su uso.
 
 
 
